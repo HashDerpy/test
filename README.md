@@ -7,3 +7,5 @@
 6. git push -u origin master
 
 Усё.
+
+![alt text](https://derpicdn.net/img/view/2016/7/7/1195662__safe_solo_twilight+sparkle_animated_meme_exploitable+meme_milk_chocolate_behaving+like+a+cat_chocolate+milk.gif "Понька")
