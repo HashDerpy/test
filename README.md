@@ -1,5 +1,5 @@
 # Что скачивать?
-![alt text](https://git-scm.com/downloads "This")
+[Это.](https://git-scm.com/downloads)
 
 # Как заделать репу?
 
